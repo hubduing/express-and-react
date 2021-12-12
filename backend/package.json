@@ -1,0 +1,15 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "node and react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexey Borisov",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.11.12",
+    "express": "^4.17.1"
+  }
+}
